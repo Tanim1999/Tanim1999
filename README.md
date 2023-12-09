@@ -21,21 +21,13 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanim1999&theme=github_dark)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanim1999&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanim1999&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanim1999&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanim1999&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanim1999&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanim1999&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanim1999&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanim1999&theme=github_dark&utcOffset=8)
 
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tanim1999/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
-
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tanim1999/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tanim1999/langs?time_range=one_year&theme=dark)](https://githubtrends.io)[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tanim1999/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 
 
