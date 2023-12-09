@@ -25,6 +25,18 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 ## <h2 style="color: crimson; font-weight:900">My recent projects:</h2>
 
 ### 1. Awesome Blog
+ It was a really fun project to work on. It's a full stack project where i used :
+ <b>Front-end</b>: React, Tailwind,Daisy Ui, Tanstack query, Axios, React-router-dom,
+ <b>Authentication:</b> Firebase  
+ <b>Back-end:</b> Express,MongoDb  
+ Basically it's a blogging website. Users can create blog and post them which is available to everyone. To see the blog details amd add to wish list you have to sign up. You can see all the blog details after logging in and comment on them. You can't comment on your own blog. You can edit your blog after clicking blog details.For authentication firebase is used.  
+ In the home page recent 5 blogs are shown. In the featured blog page the blogs are ranked base on word count.
+ In the all blogs page you can search blogs by title, beside this you can sort them based on category.  
+
+ For more info visit the repositories linked down below. You can also visit the website from the live link below
+
+ 
+
   - Live link: [Awesome blog](https://6571cf5f9aa73914335634cb--teal-khapse-f882a2.netlify.app)
   - Client site repository: [Awesome-blog-client](https://github.com/Tanim1999/awesome-blog-client)
   - Server site repository: [Awesome-blog-server](https://github.com/Tanim1999/awesome-blog-server)
