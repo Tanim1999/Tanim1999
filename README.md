@@ -18,6 +18,27 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanim1999&theme=monokai)](https://git.io/streak-stats)
 
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanim1999&theme=github_dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanim1999&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanim1999&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanim1999&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanim1999&theme=github_dark&utcOffset=8)
+
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tanim1999/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tanim1999/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
+
+
+
 ## The technologies i worked with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,javascript,react,express,mongodb,firebase,vscode,github,vercel,netlify&perline=7&theme=dark)](https://skillicons.dev)
@@ -26,9 +47,16 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 
 ### 1. Awesome Blog
  It was a really fun project to work on. It's a full stack project where i used :
- <b>Front-end</b>: React, Tailwind,Daisy Ui, Tanstack query, Axios, React-router-dom,
- <b>Authentication:</b> Firebase  
- <b>Back-end:</b> Express,MongoDb  
+
+ <b>Front-end</b>: React, Tailwind,Daisy Ui, Tanstack query, Axios, React-router-dom.
+
+
+ <b>Authentication:</b> Firebase
+
+
+ <b>Back-end:</b> Express,MongoDb 
+
+
  Basically it's a blogging website. Users can create blog and post them which is available to everyone. To see the blog details amd add to wish list you have to sign up. You can see all the blog details after logging in and comment on them. You can't comment on your own blog. You can edit your blog after clicking blog details.For authentication firebase is used.  
  In the home page recent 5 blogs are shown. In the featured blog page the blogs are ranked base on word count.
  In the all blogs page you can search blogs by title, beside this you can sort them based on category.  
