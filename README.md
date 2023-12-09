@@ -9,7 +9,7 @@ I am a front-end developer driven by a deep passion for coding and transforming 
   
 
 - 🔭 I’m currently working on my unique project.
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning next.js
 - 👯 I’m looking to collaborate on exciting projects.
 
 - 💬 Ask me about anything you want to know about me.
@@ -18,19 +18,23 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanim1999&theme=monokai)](https://git.io/streak-stats)
 
+## The technologies i worked with:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,javascript,react,express,mongodb,firebase,vscode,github,vercel,netlify&perline=7&theme=dark)](https://skillicons.dev)
+
 ## <h2 style="color: crimson; font-weight:900">My recent projects:</h2>
 
 ### 1. Awesome Blog
   - Live link: [Awesome blog](https://6571cf5f9aa73914335634cb--teal-khapse-f882a2.netlify.app)
-  - Client site repository:
-  - Server site repository:
+  - Client site repository: [Awesome-blog-client](https://github.com/Tanim1999/awesome-blog-client)
+  - Server site repository: [Awesome-blog-server](https://github.com/Tanim1999/awesome-blog-server)
 
 ### 2. Dream Asset Hub
   - Live link:
-  - Client site repository:
-  - Server site repository:
+  - Client site repository:  [dream-asset-hub-client](https://github.com/Tanim1999/asset-hub-client)
+  - Server site repository:  [dream-asset-hub-server](https://github.com/Tanim1999/asset-hub-server)
 
 ### 3. Brand shop
   - Live link:
-  - Client site repository:
-  - Server site repository:
+  - Client site repository:[Brand-shop-client](https://github.com/Tanim1999/brand-shop-client)
+  - Server site repository:[Brand-shop-server](https://github.com/Tanim1999/brand-shop-server)
