@@ -21,7 +21,7 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 ## <h2 style="color: crimson; font-weight:900">My recent projects:</h2>
 
 ### 1. Awesome Blog
-  - Live link: [Awesome blog]("https://6571cf5f9aa73914335634cb--teal-khapse-f882a2.netlify.app/")
+  - Live link: [Awesome blog](https://6571cf5f9aa73914335634cb--teal-khapse-f882a2.netlify.app)
   - Client site repository:
   - Server site repository:
 
