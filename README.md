@@ -15,10 +15,12 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 - 💬 Ask me about anything you want to know about me.
 - 📫 How to reach me: ihtanim56@gmail.com
 
+## My github stats:
+
+
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanim1999&theme=github_dark)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanim1999&theme=monokai)](https://git.io/streak-stats)
-
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanim1999&theme=github_dark)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanim1999&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanim1999&theme=github_dark)
@@ -62,11 +64,26 @@ I am a front-end developer driven by a deep passion for coding and transforming 
   - Server site repository: [Awesome-blog-server](https://github.com/Tanim1999/awesome-blog-server)
 
 ### 2. Dream Asset Hub
-  - Live link:
+This a full stack project and my most advanced project so far. Here i used follwing technologies:
+
+<b>Front-end</b>: React, Tailwind,Daisy Ui, Tanstack query, Axios, React-router-dom.
+
+
+ <b>Authentication:</b> Firebase
+ <b>Payment method:</b> Stripe
+
+
+ <b>Back-end:</b> Express,MongoDb 
+
+ This is my biggest work so far. It's an asset management website. Here asset management service is sold. Users can join as an admin or employee. Admin can increase his team member limit by buying selected package. Admin can add asset and approve or reject requests made by employee and the whole life cycle of an asset is recorded. Employees can track the status of his/her requested asset and return it if the asset is returnable. Beside that there are interesting features like upcoming birthdays of team mates. So overall it's a very useful website to manage the assets of a company.  
+ For more info you can visit the repositories, also you can check the live site to visit the website.
+  - Live link:[Dream-Asset-Hub](https://6574441a458d3749674417be--spectacular-baklava-de8204.netlify.app/)
   - Client site repository:  [dream-asset-hub-client](https://github.com/Tanim1999/asset-hub-client)
   - Server site repository:  [dream-asset-hub-server](https://github.com/Tanim1999/asset-hub-server)
 
 ### 3. Brand shop
-  - Live link:
+ This is a project i have done while i was just exploring backend with Express and mongo Db. Basically its concept is based on CRUD operation. 
+ It's a gadget selling website where users can find gadgets of different companies. They can add the items in cart.
+  - Live link: [Brand-shop](https://6574467d40c3bb49ce950855--incomparable-crepe-93232c.netlify.app/)
   - Client site repository:[Brand-shop-client](https://github.com/Tanim1999/brand-shop-client)
   - Server site repository:[Brand-shop-server](https://github.com/Tanim1999/brand-shop-server)
