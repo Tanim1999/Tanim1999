@@ -37,7 +37,7 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,javascript,react,express,mongodb,firebase,vscode,github,vercel,netlify&perline=7&theme=dark)](https://skillicons.dev)
 
-## <h2 style="color: crimson; font-weight:900">My recent projects:</h2>
+## <DIV>My recent projects:</DIV>
 
 ### 1. Awesome Blog
  It was a really fun project to work on. It's a full stack project where i used :
@@ -59,7 +59,7 @@ I am a front-end developer driven by a deep passion for coding and transforming 
 
  
 
-  - Live link: [Awesome blog](https://6571cf5f9aa73914335634cb--teal-khapse-f882a2.netlify.app)
+  - Live link: [Awesome blog](https://teal-khapse-f882a2.netlify.app/)
   - Client site repository: [Awesome-blog-client](https://github.com/Tanim1999/awesome-blog-client)
   - Server site repository: [Awesome-blog-server](https://github.com/Tanim1999/awesome-blog-server)
 
@@ -77,13 +77,17 @@ This a full stack project and my most advanced project so far. Here i used follw
 
  This is my biggest work so far. It's an asset management website. Here asset management service is sold. Users can join as an admin or employee. Admin can increase his team member limit by buying selected package. Admin can add asset and approve or reject requests made by employee and the whole life cycle of an asset is recorded. Employees can track the status of his/her requested asset and return it if the asset is returnable. Beside that there are interesting features like upcoming birthdays of team mates. So overall it's a very useful website to manage the assets of a company.  
  For more info you can visit the repositories, also you can check the live site to visit the website.
-  - Live link:[Dream-Asset-Hub](https://6574441a458d3749674417be--spectacular-baklava-de8204.netlify.app/)
+  - Live link:[Dream-Asset-Hub](https://beautiful-lamington-c26634.netlify.app/)
   - Client site repository:  [dream-asset-hub-client](https://github.com/Tanim1999/asset-hub-client)
   - Server site repository:  [dream-asset-hub-server](https://github.com/Tanim1999/asset-hub-server)
 
-### 3. Brand shop
- This is a project i have done while i was just exploring backend with Express and mongo Db. Basically its concept is based on CRUD operation. 
- It's a gadget selling website where users can find gadgets of different companies. They can add the items in cart.
-  - Live link: [Brand-shop](https://6574467d40c3bb49ce950855--incomparable-crepe-93232c.netlify.app/)
-  - Client site repository:[Brand-shop-client](https://github.com/Tanim1999/brand-shop-client)
-  - Server site repository:[Brand-shop-server](https://github.com/Tanim1999/brand-shop-server)
+### 3. TaskSwift
+ Features:
+- Task management website, add tasks, see the details of the task
+- In your dash board see the status of the task, drag and drop the task to change the status
+- User authentication with firebase, drag and drop using react DnD package.
+Technologies:
+Tailwind CSS, JavaScript, React, Express, MongoDb, Firebase, React DnD.
+  - Live link: [TaskSwift](https://magical-zuccutto-79b65d.netlify.app/)
+  - Client site repository:[TaskSwift-client](https://github.com/Tanim1999/task-management-client)
+  - Server site repository:[TaskSwift-server](https://github.com/Tanim1999/task-management-server)
